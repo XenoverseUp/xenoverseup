@@ -1,10 +1,10 @@
 ### Ssshh! Don't tell anyone about my secret lab. 🔬
 
-Now I'm working on [the best browser extension](https://github.com/XenoverseUp/fractions) in the world and also write some stuff that I like. Wanna see?
+Now I'm working on [the best browser extension](https://github.com/XenoverseUp/fractions) in the world and also write some stuff that I like. Wanna see? <br>
 Meet me [here](https://candurmuss.bio.link/). 🐱‍👤
 
-<p align="end" style="float: left">
-  <img src="https://c.tenor.com/W2I6xkAP4GQAAAAi/freakmeaning-fre4k.gif" />
+<p align="end" >
+  <img src="https://c.tenor.com/qBkG-SHpjT0AAAAi/tuxedo-tuxedocat.gif" />
 </p>
 
 <!--
