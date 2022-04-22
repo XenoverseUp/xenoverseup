@@ -4,7 +4,7 @@ Now I'm working on [the best browser extension](https://github.com/XenoverseUp/f
 Meet me [here](https://candurmuss.bio.link/). 🐱‍👤
 
 <p align="end" >
-  <img src="https://c.tenor.com/qBkG-SHpjT0AAAAi/tuxedo-tuxedocat.gif" />
+  <img width="100" src="https://c.tenor.com/voFHv9mGLfMAAAAi/nian-cat.gif" />
 </p>
 
 <!--
