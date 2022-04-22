@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ssshh! You found my secret lab. Don't tell anyone about here.
+
+Now I'm working on [the best browser extension](https://github.com/XenoverseUp/fractions) in the world and also .
 
 <!--
 **XenoverseUp/xenoverseup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
