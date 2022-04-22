@@ -3,6 +3,10 @@
 Now I'm working on [the best browser extension](https://github.com/XenoverseUp/fractions) in the world and also write some stuff that I like. Wanna see?
 Meet me [here](https://candurmuss.bio.link/). 🐱‍👤
 
+<p align="end">
+  <img src="https://c.tenor.com/W2I6xkAP4GQAAAAi/freakmeaning-fre4k.gif" />
+</p>
+
 <!--
 **XenoverseUp/xenoverseup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
