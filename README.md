@@ -1,6 +1,8 @@
-### Ssshh! You found my secret lab. Don't tell anyone about here.
+## Ssshh! Don't tell anyone about my secret lab. 🔬
 
-Now I'm working on [the best browser extension](https://github.com/XenoverseUp/fractions) in the world and also .
+Now I'm working on [the best browser extension](https://github.com/XenoverseUp/fractions) in the world and also [write](https://medium.com/@candurmuss) some stuff that I like. Wanna see?
+
+Meet me [here](https://candurmuss.bio.link/). 🐱‍👤
 
 <!--
 **XenoverseUp/xenoverseup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
