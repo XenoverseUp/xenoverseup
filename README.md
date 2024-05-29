@@ -1,5 +1,3 @@
-### Ssshh! You've just found my `secret lab`. Don't tell anyone about it. 🔬
-
 Now I'm working on [the best browser extension](https://github.com/XenoverseUp/fractions) in the world and also write some stuff that I like. Wanna see? <br>
 Meet me [here](https://candurmuss.bio.link/). 🐱‍👤
 
