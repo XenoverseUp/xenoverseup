@@ -1,6 +1,2 @@
-# Hello!
+<img width="100" src="https://c.tenor.com/qBkG-SHpjT0AAAAi/tuxedo-tuxedocat.gif" />
 
-
-<p align="end">
-  <img width="100" src="https://c.tenor.com/qBkG-SHpjT0AAAAi/tuxedo-tuxedocat.gif" />
-</p>
