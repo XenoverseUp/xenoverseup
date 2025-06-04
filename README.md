@@ -1,2 +1,6 @@
+
 <img width="100" src="https://c.tenor.com/qBkG-SHpjT0AAAAi/tuxedo-tuxedocat.gif" />
+<h1>Can Durmus</h1>
+<p>A new graduate with a passion for software engineering, specifically Frontend.</p>
+
 
